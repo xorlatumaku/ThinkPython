@@ -1,0 +1,2 @@
+recursive-include ipyturtle/static *.*
+include ipyturtle.json
